@@ -4,7 +4,7 @@ matplotlib
 numpy
 pandas
 scipy
-skimage
+scikit-image
 spglib
 vecmaths
 crystex==0.1.0
