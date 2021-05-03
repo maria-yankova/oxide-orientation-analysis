@@ -1,0 +1,10 @@
+ipywidgets
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+skimage
+spglib
+vecmaths
+crystex==0.1.0
