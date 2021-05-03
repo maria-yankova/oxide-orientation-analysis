@@ -8,7 +8,7 @@ To run the notebooks, clone this repository, then activate a new Python 3 virtua
 
 `python -m venv venv`
 
-Activate this environment and then install the required pacakges using:
+Activate this environment and then install the required packages using:
 
 `python -m pip install -r requirements.txt`
 
