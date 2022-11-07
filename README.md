@@ -32,3 +32,7 @@ Activate this environment and then install the required packages using:
 `python -m pip install -r requirements.txt`
 
 Alternatively, click the Binder link above to explore without installation.
+
+
+
+Please cite as "maria-yankova. (2022). maria-yankova/oxide-orientation-analysis: v1 (Version v1). Zenodo. https://doi.org/10.5281/zenodo.7300016" 
