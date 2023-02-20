@@ -2,25 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maria-yankova/oxide-orientation-analysis/HEAD)
 
-This repository contains Jupyter notebooks for exploring the data and analysis reported in the manuscript 
-
-"Untangling competition between epitaxial strain and growth stress through examination of variations in local oxidation"
-
-Authors
-
-Maria S. Yankova1*, Alistair Garner1, Felicity Baxter1, Samuel Armson1, Christopher P. Race1, 2, Michael Preuss1, 3†, Philipp Frankel1, 2
-
-Affiliations 
-
-1Department of Materials, the University of Manchester, Manchester M13 9PL, UK
-
-2Henry Royce Institute, Royce Hub Building, the University of Manchester, Manchester, M13 9PL, UK
-
-3Department of Materials Science & Engineering, Monash University, Clayton, 3800, Victoria, Australia
-
-*maria.yankova@manchester.ac.uk
-
-†michael.preuss@manchester.ac.uk
+This repository contains Jupyter notebooks for exploring the data and analysis reported in the publication:
+Yankova, M.S., Garner, A., Baxter, F. et al. Untangling competition between epitaxial strain and growth stress through examination of variations in local oxidation. Nat Commun 14, 250 (2023). https://doi.org/10.1038/s41467-022-35706-3 
 
 
 To run the notebooks, clone this repository, then activate a new Python 3 virtual environement from the root of the cloned repository with:
@@ -35,4 +18,4 @@ Alternatively, click the Binder link above to explore without installation.
 
 
 
-Please cite as "maria-yankova. (2022). maria-yankova/oxide-orientation-analysis: v1 (Version v1). Zenodo. https://doi.org/10.5281/zenodo.7300016" 
+Please cite as "maria-yankova. (2022). maria-yankova/oxide-orientation-analysis: v2 (Version v2). Zenodo. https://doi.org/10.5281/zenodo.7300016" 
