@@ -18,4 +18,4 @@ Alternatively, click the Binder link above to explore without installation.
 
 
 
-Please cite as "maria-yankova. (2022). maria-yankova/oxide-orientation-analysis: v1.1 (Version v1.1). Zenodo. https://doi.org/10.5281/zenodo.7300016" 
+Please cite as "maria-yankova. (2022). maria-yankova/oxide-orientation-analysis: v1.1 (Version v1.1). Zenodo. https://doi.org/10.5281/zenodo.4737700" 
